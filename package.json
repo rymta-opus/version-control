@@ -1,0 +1,22 @@
+{
+  "name": "version-control-copy",
+  "version": "1.0.0",
+  "description": "Test project to learn Git. Modified by a clone",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rymta-opus/version-control.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rymta-opus/version-control/issues"
+  },
+  "homepage": "https://github.com/rymta-opus/version-control#readme",
+  "devDependencies": {
+    "eslint": "^10.11.0"
+  }
+}
