@@ -1,6 +1,6 @@
 # version-control-lab1
 
-Test project to learn Git
+Test project to learn Git. Modified by a clone
 
 ## Usage
 
