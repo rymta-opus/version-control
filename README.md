@@ -13,3 +13,6 @@ Project currently under development
 ## Insights
 
 This project has already helped users learn new things
+
+## Signup
+
