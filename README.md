@@ -4,4 +4,4 @@ Test project to learn Git
 
 ## Usage
 
-This repository is used to practice Git commands
+This repository is for login and used to practice Git commands
