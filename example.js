@@ -1,1 +1,1 @@
-console.log('This is a real application')
+console.log("This is a real application");

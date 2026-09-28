@@ -13,3 +13,13 @@ Project currently under development
 ## Insights
 
 This project has already helped users learn new things
+
+## Important commands
+
+```bash
+git log --oneline --graph --all
+
+git submodule status
+
+vim .git/hooks/pre-commit
+```
